@@ -1,4 +1,4 @@
-# GCP Vision with feed from DJI Tello
+# GCP and DJI Tello
 
 Link to my presentation slides.
 
